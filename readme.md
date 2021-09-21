@@ -31,14 +31,20 @@ ioc.register('project', project, ['task'])
 ```
 
 
-#Run Lint
+# Run Lint
+```
 npm install
 npm run lint
+```
 
-#Run tests
+# Run tests
+```
 npm install
 npm run test
+```
 
-#Run demo
+# Run demo
+```
 npm install
 npm start
+```
